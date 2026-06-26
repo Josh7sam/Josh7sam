@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **joshuasam19122005@gmail.com**
 
-- 📄 Know about my experiences https://raw.githubusercontent.com/Josh7sam/Josh7sam/main/JOSHUASAM_RESUME.pdf
+- 📄 Know about my experiences  [View Resume](https://raw.githubusercontent.com/Josh7sam/Josh7sam/main/JOSHUASAM_RESUME.pdf)
 
 - ⚡ Fun fact **I went from writing "Hello World" to building agentic AI systems — and I'm just getting started.**
 
